@@ -14,8 +14,9 @@ When you click: https://hitesh-attri.github.io/SudokuSolver/
 
 When you click "GetPuzzle" :
 
-![image](https://user-images.githubusercontent.com/97785855/199488961-82d5e18c-4aeb-48f2-b292-46f8fd3fd1e0.png)
+![image](https://user-images.githubusercontent.com/97785855/199489772-c460a171-c3b8-428c-9b6c-c3b99a91da3f.png)
 
 
 When you click "SolvePuzzle" : 
 
+![image](https://user-images.githubusercontent.com/97785855/199489849-5d394112-5ec0-49b0-aa29-bc618c630576.png)
